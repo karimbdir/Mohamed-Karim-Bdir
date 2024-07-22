@@ -60,9 +60,6 @@ Please feel free to reach out to me via my LinkedIn profile. <a href="https://ww
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   </a>
-  <a href="https://www.duolingo.com/profile/Fli9z" target="_blank"> 
-    <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" alt="Duolingo"/>
-  </a>
 </p>
 
 
